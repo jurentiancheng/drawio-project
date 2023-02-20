@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T16:50:13.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UvvswgI4KXT0hFB1nmqd" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T16:52:02.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PFmuYItdM0VsuIMn0sIR" version="20.8.20" type="github">
   <diagram id="F8wx6kGV45RI2Z-BzRph" name="第 1 页">
     <mxGraphModel dx="1868" dy="2597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -463,7 +463,7 @@
           <mxGeometry x="520" y="-635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AMems7wWx2xvMUqhiFYq-39" value="基础服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry y="-650" width="80" height="30" as="geometry" />
+          <mxGeometry x="-10" y="-660" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AMems7wWx2xvMUqhiFYq-40" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="-14" y="-1000" width="785" height="140" as="geometry" />
@@ -512,6 +512,12 @@
             <mxPoint x="764" y="-1090" as="sourcePoint" />
             <mxPoint x="822.5" y="-1090" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AMems7wWx2xvMUqhiFYq-61" value="业务模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-990" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AMems7wWx2xvMUqhiFYq-62" value="业务服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-840" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
