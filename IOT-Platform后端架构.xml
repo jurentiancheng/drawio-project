@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T02:24:10.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xFP7BjzJLgiTrRz20s8m" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T02:27:29.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0iJU682y_xQxDNHSx9OG" version="20.8.20" type="github">
   <diagram id="F8wx6kGV45RI2Z-BzRph" name="第 1 页">
     <mxGraphModel dx="2135" dy="2778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,7 +447,7 @@
         <mxCell id="AMems7wWx2xvMUqhiFYq-34" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="-14" y="-660" width="785" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AMems7wWx2xvMUqhiFYq-35" value="Auth&lt;br&gt;认证服务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 4;labelBackgroundColor=none;strokeColor=#82b366;fontSize=18;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="AMems7wWx2xvMUqhiFYq-35" value="Auth&lt;br&gt;认证中心" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 4;labelBackgroundColor=none;strokeColor=#82b366;fontSize=18;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="100" y="-635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AMems7wWx2xvMUqhiFYq-36" value="File&lt;br&gt;文件服务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 4;labelBackgroundColor=none;strokeColor=#82b366;fontSize=18;fillColor=#d5e8d4;" vertex="1" parent="1">
@@ -533,6 +533,9 @@
             <mxPoint x="950" y="-930" as="sourcePoint" />
             <mxPoint x="990" y="-930" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AMems7wWx2xvMUqhiFYq-69" value="Kafka" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=18;image=img/lib/mscae/Event_Grid_Topics.svg;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 4;labelBackgroundColor=none;strokeColor=default;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="245.5" y="-470" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
