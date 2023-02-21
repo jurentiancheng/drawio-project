@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T01:57:39.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZtReVxRYp4M0Atyibcud" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T02:19:23.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Yf7DZ2OvQlZkvrAlOFV8" version="20.8.20" type="github">
   <diagram id="F8wx6kGV45RI2Z-BzRph" name="第 1 页">
     <mxGraphModel dx="2135" dy="2778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -468,8 +468,8 @@
         <mxCell id="AMems7wWx2xvMUqhiFYq-41" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="-14" y="-840" width="785" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="AMems7wWx2xvMUqhiFYq-42" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 4;labelBackgroundColor=none;strokeColor=default;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-19" y="-478" width="68" height="68" as="geometry" />
+        <mxCell id="AMems7wWx2xvMUqhiFYq-42" value="Mysql集群" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=18;image=img/lib/azure2/databases/SQL_Server.svg;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 4;labelBackgroundColor=none;strokeColor=default;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="-490" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="AMems7wWx2xvMUqhiFYq-43" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="817" y="-1150" width="130" height="610" as="geometry" />
@@ -516,8 +516,17 @@
         <mxCell id="AMems7wWx2xvMUqhiFYq-62" value="业务服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-10" y="-840" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bqu1suQzYfsIhVlbQ3ju-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
+        <mxCell id="Bqu1suQzYfsIhVlbQ3ju-5" value="Redis 集群" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=18;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
           <mxGeometry x="120" y="-466" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="AMems7wWx2xvMUqhiFYq-63" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google;rounded=0;shadow=0;glass=0;dashPattern=1 4;labelBackgroundColor=none;strokeColor=default;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="-125" width="65.2" height="69.4" as="geometry" />
+        </mxCell>
+        <mxCell id="AMems7wWx2xvMUqhiFYq-64" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome;rounded=0;shadow=0;glass=0;dashPattern=1 4;labelBackgroundColor=none;strokeColor=default;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-72.4" y="-1267.7" width="74.8" height="75.4" as="geometry" />
+        </mxCell>
+        <mxCell id="AMems7wWx2xvMUqhiFYq-66" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/intune/Device_Compliance.svg;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 4;labelBackgroundColor=none;strokeColor=default;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="129" y="-1264" width="62" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
