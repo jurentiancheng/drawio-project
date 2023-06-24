@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T12:56:09.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="0LAtTkqbao43iwUJD1Hj" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:56:18.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="mMASdm9Zecpk_IRnycTU" version="21.5.0" type="github">
   <diagram name="第 1 页" id="7c6GsXfPJmpXfs3PlYZG">
     <mxGraphModel dx="994" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,7 +513,7 @@
           <mxGeometry x="610" y="775" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bICUuLSEpUSDCcMhBE6c-62" value="Cas-Server 后端配置 接入账号统一认证服务，完成账号密码认证" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.18;position2=0;base=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="610" y="870" width="110" height="95" as="geometry" />
+          <mxGeometry x="610" y="870" width="120" height="95" as="geometry" />
         </mxCell>
         <mxCell id="bICUuLSEpUSDCcMhBE6c-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="bICUuLSEpUSDCcMhBE6c-42" target="bICUuLSEpUSDCcMhBE6c-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
