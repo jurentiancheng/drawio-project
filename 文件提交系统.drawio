@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T12:49:57.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="EvGPA_cupYbOYImjTnlH" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:53:40.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="Fd29gxx_HU0YEwk9FEIv" version="21.5.0" type="github">
   <diagram name="第 1 页" id="7c6GsXfPJmpXfs3PlYZG">
     <mxGraphModel dx="994" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -509,8 +509,11 @@
         <mxCell id="bICUuLSEpUSDCcMhBE6c-58" value="6. 创建Session&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="1140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bICUuLSEpUSDCcMhBE6c-59" value="7. 登录成功重定向到&amp;nbsp; 文件提交系统 Web 端&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1200" width="260" height="30" as="geometry" />
+        <mxCell id="bICUuLSEpUSDCcMhBE6c-59" value="7. 登录成功重定向到&amp;nbsp; 文件提交系统 Web 端&lt;br&gt;返回 登录用户用户 必要信息&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1200" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bICUuLSEpUSDCcMhBE6c-60" value="若 TGT 有效， 直接 签发 ST 走 4 的流程" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=22;position=0.06;position2=0;base=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="775" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
