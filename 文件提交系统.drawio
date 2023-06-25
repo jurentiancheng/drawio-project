@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T16:04:11.982Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="qCbYPCDImy1xLYzAquvb" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T16:05:15.615Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="s3B4vr7clSioJK-jBo9Z" version="21.5.0" type="github">
   <diagram name="第 1 页" id="7c6GsXfPJmpXfs3PlYZG">
     <mxGraphModel dx="1122" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -563,7 +563,7 @@
         <mxCell id="yygzeU2XcS9XZKGM1RRa-34" value="Atom 平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="802.5" y="1338" width="125" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="yygzeU2XcS9XZKGM1RRa-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yygzeU2XcS9XZKGM1RRa-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="1330" width="230" height="600" as="geometry" />
         </mxCell>
         <mxCell id="yygzeU2XcS9XZKGM1RRa-35" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
