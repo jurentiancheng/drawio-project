@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T04:15:44.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="pwAXzIibUb3dOYlU0boD" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T04:18:29.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="oPoMSzGSzntHQ8H5Do5m" version="21.5.2" type="github">
   <diagram name="第 1 页" id="7c6GsXfPJmpXfs3PlYZG">
     <mxGraphModel dx="816" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1327,13 +1327,13 @@
         </mxCell>
         <mxCell id="V9CVy1dzz6b9orYeiQag-140" value="" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="3680" as="sourcePoint" />
-            <mxPoint x="370" y="3680" as="targetPoint" />
+            <mxPoint x="589.25" y="3695" as="sourcePoint" />
+            <mxPoint x="369.25" y="3695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V9CVy1dzz6b9orYeiQag-141" value="请求 已完成上传的 分片" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;" connectable="0" vertex="1" parent="V9CVy1dzz6b9orYeiQag-140">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="13" y="-12" as="offset" />
+            <mxPoint x="1" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V9CVy1dzz6b9orYeiQag-143" value="" style="endArrow=none;dashed=1;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bICUuLSEpUSDCcMhBE6c-19" target="V9CVy1dzz6b9orYeiQag-142">
@@ -1365,10 +1365,10 @@
             <mxPoint x="13" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9CVy1dzz6b9orYeiQag-148" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="V9CVy1dzz6b9orYeiQag-148" value="" style="endArrow=classic;html=1;rounded=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369.25" y="3738" as="sourcePoint" />
-            <mxPoint x="597" y="3740" as="targetPoint" />
+            <mxPoint x="369.25" y="3750.55" as="sourcePoint" />
+            <mxPoint x="597" y="3752.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V9CVy1dzz6b9orYeiQag-151" value="请求创建初始化分片任务&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V9CVy1dzz6b9orYeiQag-148">
@@ -1387,7 +1387,7 @@
         </mxCell>
         <mxCell id="V9CVy1dzz6b9orYeiQag-153" value="返回 初始化分片任务 对象" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V9CVy1dzz6b9orYeiQag-152">
           <mxGeometry x="0.4626" y="-1" relative="1" as="geometry">
-            <mxPoint x="39" y="10" as="offset" />
+            <mxPoint x="41" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V9CVy1dzz6b9orYeiQag-155" value="" style="endArrow=none;dashed=1;html=1;rounded=1;" edge="1" parent="1">
@@ -1485,6 +1485,17 @@
         <mxCell id="V9CVy1dzz6b9orYeiQag-181" value="结束流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V9CVy1dzz6b9orYeiQag-180">
           <mxGeometry x="0.4626" y="-1" relative="1" as="geometry">
             <mxPoint x="-36" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9CVy1dzz6b9orYeiQag-183" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374.25" y="3679.5" as="sourcePoint" />
+            <mxPoint x="591.75" y="3679.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9CVy1dzz6b9orYeiQag-184" value="请求 已完成上传分片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V9CVy1dzz6b9orYeiQag-183">
+          <mxGeometry x="-0.1034" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
