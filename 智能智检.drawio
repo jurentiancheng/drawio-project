@@ -42,7 +42,7 @@
         <mxCell id="mTZ1n0IEwQoN-7EreBPF-41" value="外部系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="510" y="360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mTZ1n0IEwQoN-7EreBPF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.024;entryY=0.381;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="mTZ1n0IEwQoN-7EreBPF-45" target="mTZ1n0IEwQoN-7EreBPF-10" edge="1">
+        <mxCell id="mTZ1n0IEwQoN-7EreBPF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.215;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="mTZ1n0IEwQoN-7EreBPF-45" target="mTZ1n0IEwQoN-7EreBPF-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="430" as="sourcePoint" />
           </mxGeometry>
