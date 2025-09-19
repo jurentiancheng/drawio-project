@@ -164,7 +164,7 @@
         <mxCell id="Tzhu13EK4kE5AcOoHMxB-1" value="摄像头实时预览" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tzhu13EK4kE5AcOoHMxB-2" value="摄像头配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="Tzhu13EK4kE5AcOoHMxB-2" value="操作台配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="160" y="390" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
