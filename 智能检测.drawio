@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="zSAi35ek0NvChx74wgaf">
-    <mxGraphModel dx="1501" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2593" dy="2624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -575,7 +575,7 @@
           <mxGeometry height="120" width="720" x="39" y="40" as="geometry" />
         </mxCell>
         <mxCell id="z9kdAWm0JNPFoOiHwAZG-68" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;检测流程&lt;/h1&gt;&lt;p&gt;1. 启动服务时 初始化SDK，登录超脑， 开启布防，持续订阅超脑 任务检测事件；等待相机检测请求；&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. 接收检测请求： 【开始时间窗口《事件流中 过滤指定相机，指定算法类型的告警事件，汇总检测结果 》关闭时间窗口】；&lt;/p&gt;&lt;p&gt;3. 返回检测请求： 返回检测结果 ；&lt;/p&gt;&lt;p&gt;4. 2，3 检测流程 依次往复；&lt;/p&gt;&lt;p&gt;5. 关闭服务时： 超脑撤防 ，清理SDK 资源；&lt;/p&gt;" vertex="1">
-          <mxGeometry height="180" width="720" x="34" y="500" as="geometry" />
+          <mxGeometry height="200" width="720" x="34" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
