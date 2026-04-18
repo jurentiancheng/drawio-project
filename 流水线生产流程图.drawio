@@ -281,6 +281,9 @@
         <mxCell id="MuFJsiFhONq16XD0yC28-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=16;" value="主控屏" vertex="1">
           <mxGeometry height="30" width="70" x="465" y="915" as="geometry" />
         </mxCell>
+        <mxCell id="MuFJsiFhONq16XD0yC28-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=18;fontStyle=1" value="订单信息打包流水示意图" vertex="1">
+          <mxGeometry height="40" width="220" x="40" y="850" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
