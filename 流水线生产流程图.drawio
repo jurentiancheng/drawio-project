@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="pbzaq0nCESZcWGXpdFHJ">
-    <mxGraphModel dx="1929" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2175" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,13 +122,13 @@
           <mxGeometry height="30" width="70" x="20" y="155" as="geometry" />
         </mxCell>
         <mxCell id="ICOz4D0fp88o44ax71rV-35" parent="1" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" value="" vertex="1">
-          <mxGeometry height="31" width="26.43" x="266.79" y="169" as="geometry" />
+          <mxGeometry height="31" width="26.43" x="313.79" y="169" as="geometry" />
         </mxCell>
         <mxCell id="ICOz4D0fp88o44ax71rV-36" parent="1" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" value="" vertex="1">
-          <mxGeometry height="31" width="26.43" x="293.57" y="169" as="geometry" />
+          <mxGeometry height="31" width="26.43" x="341.57" y="169" as="geometry" />
         </mxCell>
         <mxCell id="ICOz4D0fp88o44ax71rV-37" parent="1" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" value="" vertex="1">
-          <mxGeometry height="31" width="26.43" x="320" y="169" as="geometry" />
+          <mxGeometry height="31" width="26.43" x="367" y="169" as="geometry" />
         </mxCell>
         <mxCell id="ICOz4D0fp88o44ax71rV-38" parent="1" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;dashed=1;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="420" y="385" as="geometry" />
@@ -283,6 +283,14 @@
         </mxCell>
         <mxCell id="MuFJsiFhONq16XD0yC28-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=18;fontStyle=1" value="订单信息打包流水示意图" vertex="1">
           <mxGeometry height="40" width="220" x="40" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQyOjIBgontfqqYFgka-3" edge="1" parent="1" source="MXQyOjIBgontfqqYFgka-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MXQyOjIBgontfqqYFgka-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=light-dark(#FF0000,#97D077);fontColor=light-dark(#000000,#000000);fontStyle=1;fontSize=15;" value="上料机" vertex="1">
+          <mxGeometry height="80" width="80" x="240" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
