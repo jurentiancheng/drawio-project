@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
+  <diagram name="第 1 页" id="gHMFw-Uy-H83rRVI5fb0">
+    <mxGraphModel dx="1116" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9muFR6bUvQHoKfL-erAI-16" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="480" width="680" x="70" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-17" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;direction=north;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="450" width="10" x="134" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="菜单区域" vertex="1">
+          <mxGeometry height="30" width="60" x="74" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="TopBar" vertex="1">
+          <mxGeometry height="40" width="606" x="144" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-23" parent="1" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="270" width="160" x="146" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="计划任务区域" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-27" parent="1" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="142" width="160" x="147" y="489" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="生产信息区域" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-29" parent="1" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="137.5" width="430" x="312" y="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-30" parent="1" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="274" width="430" x="312" y="356" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="计数模式" vertex="1">
+          <mxGeometry height="30" width="60" x="497" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="打包记录列表区域" vertex="1">
+          <mxGeometry height="30" width="60" x="497" y="478" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-33" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor2=#008cff;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="24" width="30" x="710" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="9muFR6bUvQHoKfL-erAI-36" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;布局说明：&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;1. 菜单区域： 自上而下依次 客户出库，仓库出库，客户管理，设备管理，配置管理；菜单默认折叠只显示菜单图标；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;2. 计划任务区域：顶部显示按钮：选择计划任务， 下面显示任务信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. 生产信息区域：订单数量，每箱数量，已装箱数，当前箱号 ； 进度条&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. 计数区域：顶部切换模式按钮 自动计数 / 人工计数；中间 按钮区域&amp;nbsp; 开始 / 暂停 ，完成手动计数(人工计数)，放行(人工校对数量)； 底部 显示 计数数量，校对数量 ； 区域占比 顶部:中间:低部 = 1:2:3 ,目目标要求地步数量大字高亮显示；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5.打包记录区域：打包记录列表，正在打包的记录置顶显示，按打包时间倒序；&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="680" x="70" y="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
